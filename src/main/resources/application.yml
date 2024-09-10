@@ -2,7 +2,7 @@ spring:
   application:
     name: NovaRideLocationService
 server:
-  port=7477
+  port: 7477
 
 eureka:
   client:
